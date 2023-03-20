@@ -8,7 +8,6 @@ test('adds 2 + 2 to equal 4', () => {
   expect(mojModul.sum(2, 2)).toEqual(4);
 });
 
-
 let mojaRecenica = 'Moja recenica sadrzi 3 slova e';
 
 test('ima 3 slova e u rečenici', () => {
